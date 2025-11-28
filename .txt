@@ -1,0 +1,78 @@
+<footer class="pt-5 pb-3" style="background:#fafafa;">
+    <div class="container">
+
+        <!-- Top Row -->
+        <div class="row align-items-center mb-4">
+            
+            <!-- Logo -->
+            <div class="col-md-3 text-center text-md-start">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8h7NfBJg5ShcB-58RITEWv56xjgvo0zr6w&s" 
+                     width="90" alt="Logo">
+            </div>
+
+            <!-- Menu -->
+            <div class="col-md-6 text-center">
+                <a href="#" class="mx-3 text-dark text-decoration-none">About us</a>
+                <a href="#" class="mx-3 text-dark text-decoration-none">Contact us</a>
+                <a href="#" class="mx-3 text-dark text-decoration-none">Donate</a>
+            </div>
+
+            <!-- Social Icons -->
+            <div class="col-md-3 text-center text-md-end">
+                <a href="#"><img src="https://thumbs.dreamstime.com/b/instagram-logo-icon-voronezh-russia-november-square-blue-color-164585991.jpg" width="28"></a>
+                <a href="#" class="ms-2"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="28"></a>
+                <a href="#" class="ms-2"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="28"></a>
+            </div>
+        </div>
+
+        <!-- Newsletter Row -->
+        <div class="row align-items-center py-4 border-top border-bottom">
+
+            <div class="col-md-4 d-flex align-items-center">
+                <img src="https://cdn-icons-png.flaticon.com/512/561/561188.png" width="45" class="me-3">
+                <div>
+                    <h5 class="mb-1">Subscribe Our Newsletter</h5>
+                    <small>We’ll send you one nice letter per week.</small>
+                </div>
+            </div>
+
+            <div class="col-md-8 mt-3 mt-md-0">
+                <div class="input-group">
+                    <input type="email" class="form-control rounded-pill px-3" placeholder="Enter your email">
+                    <button class="btn btn-warning rounded-pill px-4 ms-2">Subscribe</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bottom Row -->
+        <div class="row text-center pt-3">
+            <div class="col-md-12">
+                <small>
+                    © 2023 Shaikh Ul Islam Trust &nbsp; | &nbsp;
+                    <a href="#" class="text-decoration-none text-dark">Terms & Conditions</a> &nbsp; | &nbsp;
+                    <a href="#" class="text-decoration-none text-dark">Privacy Policy</a>
+                </small>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<footer>
+  <div class="container">
+    <div class ="align-items-center">
+      <!--Logo-->
+      <div class="col-md-3 text-center text-md-start">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8h7NfBJg5ShcB-58RITEWv56xjgvo0zr6w&s" alt="Logo" width="80" height="80" >
+    </div>
+    <!-- Menu -->
+      <div class="col-md-6 text-center">
+        <a href="#" class="mx-3 text-dark text-decoration-none">About us</a>
+        <a href="#" class="mx-3 text-dark text-decoration-none">Contact us</a>
+        <a href="#" class="mx-3 text-dark text-decoration-none">Donate</a>
+      </div>
+    </div>
+  </div>
+</footer>
